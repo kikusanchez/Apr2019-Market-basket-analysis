@@ -1,0 +1,12 @@
+LHS;RHS;support;confidence;lift;count
+{Accessories,Software};{Display};0,109;0,723;1,238;500
+{PC,Software};{Display};0,102;0,739;1,266;470
+{Laptop,Software};{Display};0,090;0,723;1,240;413
+{Laptop,Printer Supplies};{Display};0,052;0,741;1,269;240
+{Printer,Tablet};{Display};0,031;0,809;1,386;144
+{Printer,Software};{Display};0,031;0,797;1,365;141
+{Software,Tablet};{Display};0,023;0,723;1,239;107
+{Printer,Printer Supplies};{Display};0,020;0,788;1,351;93
+{Printer Supplies,Software};{Laptop};0,019;0,889;1,306;88
+{Printer Supplies,Software};{Display};0,016;0,747;1,281;74
+{Printer Supplies,Tablet};{Display};0,015;0,758;1,299;69

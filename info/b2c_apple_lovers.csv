@@ -1,0 +1,3 @@
+LHS;RHS;support;confidence;lift;count
+{Apple Earpods,Apple MacBook Air,iPhone Charger Cable};{Dell KM117 Wireless Keyboard & Mouse};0,001;0,75;66,46;6
+{Apple Earpods,Apple MacBook Air,Dell KM117 Wireless Keyboard & Mouse};{iPhone Charger Cable};0,001;0,86;48,71;6

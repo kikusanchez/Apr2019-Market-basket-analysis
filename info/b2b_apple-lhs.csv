@@ -1,0 +1,6 @@
+"","LHS","RHS","support","confidence","lift","count"
+"28","{Apple Magic Keyboard,Computer Game,iMac}","{HP Laptop}",0.00608034744842562,0.777777777777778,2.36726151134611,28
+"53","{Apple Magic Keyboard,ASUS Monitor,Dell Desktop}","{HP Laptop}",0.00629750271444083,0.783783783783784,2.38554152301674,29
+"61","{Apple Magic Keyboard,Dell Desktop,Microsoft Office Home and Student 2016}","{iMac}",0.00521172638436482,0.827586206896552,1.9921769381906,24
+"77","{Acer Aspire,Dell Desktop,iMac,ViewSonic Monitor}","{HP Laptop}",0.00803474484256243,0.902439024390244,2.7466832169974,37
+"81","{Acer Desktop,Dell Desktop,iMac,ViewSonic Monitor}","{HP Laptop}",0.00694896851248643,0.8,2.43489755452743,32

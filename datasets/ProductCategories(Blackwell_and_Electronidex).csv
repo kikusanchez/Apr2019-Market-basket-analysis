@@ -1,0 +1,126 @@
+"","ProdCat","ProdName","ProdSuperCat","BWCat","Roww"
+"1","Laptops","LG Touchscreen Laptop","Laptops","Laptop",1
+"2","Laptops","Acer Aspire","Laptops","Laptop",2
+"3","Laptops","HP Laptop","Laptops","Laptop",3
+"4","Laptops","ASUS Chromebook","Laptops","Laptop",4
+"5","Laptops","Apple MacBook Pro","Laptops","Laptop",5
+"6","Laptops","Apple MacBook Air","Laptops","Laptop",6
+"7","Laptops","Dell Laptop","Laptops","Laptop",7
+"8","Laptops","Eluktronics Pro Gaming Laptop","Laptops","Laptop",8
+"9","Laptops","Alienware Laptop","Laptops","Laptop",9
+"10","Laptops","HP Notebook Touchscreen Laptop PC","Laptops","Laptop",10
+"11","Desktop","Lenovo Desktop Computer","Desktop","PC",11
+"12","Desktop","iMac","Desktop","PC",12
+"13","Desktop","HP Desktop","Desktop","PC",13
+"14","Desktop","ASUS Desktop","Desktop","PC",14
+"15","Desktop","Dell Desktop","Desktop","PC",15
+"16","Desktop","Intel Desktop","Desktop","PC",16
+"17","Desktop","Acer Desktop","Desktop","PC",17
+"18","Desktop","CYBERPOWER Gamer Desktop","Desktop","PC",18
+"19","Desktop","Dell 2 Desktop","Desktop","PC",19
+"20","Monitors","Acer Monitor","Monitors","Display",20
+"21","Monitors","LG Monitor","Monitors","Display",21
+"22","Monitors","ASUS Monitor","Monitors","Display",22
+"23","Monitors","ASUS 2 Monitor","Monitors","Display",23
+"24","Monitors","Dell Monitor","Monitors","Display",24
+"25","Monitors","Samsung Monitor","Monitors","Display",25
+"26","Monitors","Sceptre Monitor","Monitors","Display",26
+"27","Monitors","ViewSonic Monitor","Monitors","Display",27
+"28","Monitors","AOC Monitor","Monitors","Display",28
+"29","Monitors","HP Monitor","Monitors","Display",29
+"30","Compu.Mice","3-Button Mouse","MousOrKeyb","Accessories",30
+"31","Compu.Mice","Logitech Wireless Mouse","MousOrKeyb","Accessories",31
+"32","Compu.Mice","Microsoft Basic Optical Mouse","MousOrKeyb","Accessories",32
+"33","Compu.Mice","Logitech 3-button Mouse","MousOrKeyb","Accessories",33
+"34","Compu.Mice","Redragon Gaming Mouse","MousOrKeyb","Accessories",34
+"35","Compu.Mice","HP Wireless Mouse","MousOrKeyb","Accessories",35
+"36","Compu.Mice","Generic Black 3-Button","MousOrKeyb","Accessories",36
+"37","Compu.Mice","Wireless Portable Mouse","MousOrKeyb","Accessories",37
+"38","Compu.Mice","Gaming Mouse Professional","MousOrKeyb","Accessories",38
+"39","Compu.Mice","Slim Wireless Mouse","MousOrKeyb","Accessories",39
+"40","Keyboar","HP USB Keyboard","MousOrKeyb","Accessories",40
+"41","Keyboar","Logitech Wireless Keyboard","MousOrKeyb","Accessories",41
+"42","Keyboar","Rii LED Keyboard","MousOrKeyb","Accessories",42
+"43","Keyboar","Logitech Keyboard","MousOrKeyb","Accessories",43
+"44","Keyboar","Backlit LED Gaming Keyboard","MousOrKeyb","Accessories",44
+"45","Keyboar","Dell Wired Keyboard","MousOrKeyb","Accessories",45
+"46","Keyboar","Apple Wired Keyboard","MousOrKeyb","Accessories",46
+"47","Keyboar","Apple Wireless Keyboard","MousOrKeyb","Accessories",47
+"48","Keyboar","Apple Magic Keyboard","MousOrKeyb","Accessories",48
+"49","Mous.and.Keyboar.Combo","Logitech MK550 Wireless Wave Keyboard and Mouse Combo","MousOrKeyb","Accessories",49
+"50","Mous.and.Keyboar.Combo","Logitech Desktop MK120 Mouse and keyboard Combo","MousOrKeyb","Accessories",50
+"51","Mous.and.Keyboar.Combo","Logitech MK270 Wireless Keyboard and Mouse Combo","MousOrKeyb","Accessories",51
+"52","Mous.and.Keyboar.Combo","Dell KM117 Wireless Keyboard & Mouse","MousOrKeyb","Accessories",52
+"53","Mous.and.Keyboar.Combo","EagleTec Wireless Combo Keyboard and Mouse","MousOrKeyb","Accessories",53
+"54","Mous.and.Keyboar.Combo","Microsoft Wireless Comfort Keyboard and Mouse","MousOrKeyb","Accessories",54
+"55","Mous.and.Keyboar.Combo","Microsoft Wireless Desktop Keyboard and Mouse","MousOrKeyb","Accessories",55
+"56","Mous.and.Keyboar.Combo","Rii LED Gaming Keyboard & Mouse Combo","MousOrKeyb","Accessories",56
+"57","Mous.and.Keyboar.Combo","Logitech MK360 Wireless Keyboard and Mouse Combo","MousOrKeyb","Accessories",57
+"58","Compu.Hphones","Zombie Gaming Headset","Others","Accessories",58
+"59","Compu.Hphones","Logitech ClearChat Headset","Others","Accessories",59
+"60","Compu.Hphones","Panasonic On-Ear Stereo Headphones","Others","Accessories",60
+"61","Compu.Hphones","PC Gaming Headset","Others","Accessories",61
+"62","Compu.Hphones","Kensington Headphones","Others","Accessories",62
+"63","Compu.Hphones","Logitech Stereo Headset","Others","Accessories",63
+"64","Compu.Hphones","Koss Home Headphones","Others","Accessories",64
+"65","Compu.Hphones","Microsoft Headset","Others","Accessories",65
+"66","Compu.Hphones","Ailihen Stereo Headphones","Others","Accessories",66
+"67","Compu.Hphones","XIBERIA Gaming Headset","Others","Accessories",67
+"68","Activ.Hphones","Apple Earpods","Others","Accessories",68
+"69","Activ.Hphones","Monster Beats By Dr Dre","Others","Accessories",69
+"70","Activ.Hphones","Otium Wireless Sports Bluetooth Headphone","Others","Accessories",70
+"71","Activ.Hphones","Panasonic In-Ear Headphone","Others","Accessories",71
+"72","Activ.Hphones","APIE Bluetooth Headphone","Others","Accessories",72
+"73","Activ.Hphones","Philips Flexible Earhook Headphone","Others","Accessories",73
+"74","Computer.Cords","HDMI Cable 6ft","Others","Accessories",74
+"75","Computer.Cords","Ethernet Cable","Others","Accessories",75
+"76","Computer.Cords","Etekcity Power Extension Cord Cable","Others","Accessories",76
+"77","Computer.Cords","Audio Cable","Others","Accessories",77
+"78","Computer.Cords","VGA Monitor Cable","Others","Accessories",78
+"79","Computer.Cords","iPhone Charger Cable","Others","Accessories",79
+"80","Computer.Cords","HDMI Adapter","Others","Accessories",80
+"81","Computer.Cords","USB Cable","Others","Accessories",81
+"82","Computer.Cords","Samsung Charging Cable","Others","Accessories",82
+"83","Accessories","Microsoft Office Home and Student 2016","Others","Software",83
+"84","Accessories","Computer Game","Others","Software",84
+"85","Accessories","Belkin Mouse Pad","Others","Accessories",85
+"86","Accessories","Large Mouse Pad","Others","Accessories",86
+"87","Speakers","Cambridge Bluetooth Speaker","Others","Accessories",87
+"88","Speakers","JBL Splashproof Portable Bluetooth Speaker","Others","Accessories",88
+"89","Speakers","DOSS Touch Wireless Bluetooth","Others","Accessories",89
+"90","Speakers","Logitech Multimedia Speakers","Others","Accessories",90
+"91","Speakers","Rokono Mini Speaker","Others","Accessories",91
+"92","Speakers","Cyber Acoustics","Others","Accessories",92
+"93","Speakers","Bose Companion Speakers","Others","Accessories",93
+"94","Speakers","Mackie CR Speakers","Others","Accessories",94
+"95","Speakers","Sonos","Others","Accessories",95
+"96","Printers","Epson Printer","Printers","Printer",96
+"97","Printers","HP Wireless Printer","Printers","Printer",97
+"98","Printers","Canon Office Printer","Printers","Printer",98
+"99","Printers","Brother Printer","Printers","Printer",99
+"100","Printers","DYMO Label Manker","Printers","Printer",100
+"101","Printer.Ink","Epson Black Ink","Others","Printer Supplies",101
+"102","Printer.Ink","HP Black & Tri-color Ink","Others","Printer Supplies",102
+"103","Printer.Ink","Canon Ink","Others","Printer Supplies",103
+"104","Printer.Ink","Brother Printer Toner","Others","Printer Supplies",104
+"105","Printer.Ink","DYMO Labeling Tape","Others","Printer Supplies",105
+"106","Computer.Stands","Halter Acrylic Monitor Stand","Others","Accessories",106
+"107","Computer.Stands","Height-Adjustable Standing Desk","Others","Accessories",107
+"108","Computer.Stands","Multi Media Stand","Others","Accessories",108
+"109","Computer.Stands","Halter Mesh Metal Monitor Stand","Others","Accessories",109
+"110","Computer.Stands","Full Motion Monitor Mount","Others","Accessories",110
+"111","Computer.Tablets","iPad","Others","Tablet",111
+"112","Computer.Tablets","iPad Pro","Others","Tablet",112
+"113","Computer.Tablets","Fire HD Tablet","Others","Tablet",113
+"114","Computer.Tablets","Samsung Galaxy Tablet","Others","Tablet",114
+"115","Computer.Tablets","Kindle","Others","Tablet",115
+"116","External.Hardrives","1TB Portable External Hard Drive","Others","Accessories",116
+"117","External.Hardrives","2TB Portable External Hard Drive","Others","Accessories",117
+"118","External.Hardrives","5TB Desktop Hard Drive","Others","Accessories",118
+"119","External.Hardrives","Slim 2TB Portable External Hard Drive","Others","Accessories",119
+"120","External.Hardrives","3TB Portable External Hard Drive","Others","Accessories",120
+"121","Smart.Home.Devices","Apple TV","Others","Accessories",121
+"122","Smart.Home.Devices","Google Home","Others","Accessories",122
+"123","Smart.Home.Devices","Smart Light Bulb","Others","Accessories",123
+"124","Smart.Home.Devices","Fire TV Stick","Others","Accessories",124
+"125","Smart.Home.Devices","Roku Express","Others","Accessories",125
