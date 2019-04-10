@@ -1,11 +1,10 @@
 
 #### 0. INCLUDES ####
 #Load Libraries: p_load can install, load,  and update packages
-if(require("pacman")=="FALSE"){
+if(require("pacman")=="TRUE"){
   install.packages("pacman")
 }
 
-perl=TRUE
 
 pacman::p_load(rstudioapi, dplyr,magrittr, tidyr, reshape2, readxl, stringi,
                ggplot2,caret,corrplot,rpart,e1071,arules,arulesViz,gdata)
@@ -638,3 +637,7 @@ apply()
 
 
 #Probando merge#
+
+
+
+
