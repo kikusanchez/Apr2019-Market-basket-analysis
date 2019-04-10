@@ -1,7 +1,7 @@
 
 #### 0. INCLUDES ####
 #Load Libraries: p_load can install, load,  and update packages
-if(require("pacman")=="TRUE"){
+if(require("pacman")=="FALSE"){
   install.packages("pacman")
 }
 
