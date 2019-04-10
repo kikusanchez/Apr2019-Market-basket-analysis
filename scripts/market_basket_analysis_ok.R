@@ -5,7 +5,6 @@ if(require("pacman")=="FALSE"){
   install.packages("pacman")
 }
 
-perl=TRUE
 
 pacman::p_load(rstudioapi, dplyr,magrittr, tidyr, reshape2, readxl, stringi,
                ggplot2,caret,corrplot,rpart,e1071,arules,arulesViz,gdata)
@@ -633,6 +632,12 @@ apply()
 # rules.pruned <- rules.sorted[!redundant]
 # rules.pruned
 # 
+
+
+
+
+#Probando merge#
+
 
 
 
